@@ -1,4 +1,4 @@
-# Responsive Plants Website 🎍 
+# Responsive Portfolio Website 🎍 
 ## [Watch it on youtube](https://www.youtube.com/channel/UCgME7xUx_PrCdphF2k8bupg?app=desktop)
 ### Responsive Plants Website 🎍
 
